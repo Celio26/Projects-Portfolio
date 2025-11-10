@@ -1,56 +1,52 @@
-# **A Finance Starter Kit**
+# 📘 Projects-Portfolio
 
-### 🧮 Quantitative Finance with Python
-
-This project introduces the **fundamental Python tools** used in *quantitative finance* and *data analysis*.  
-It provides a practical overview of how to download, manipulate, and analyze financial time series using Python’s core libraries —  
-**pandas**, **NumPy**, **Matplotlib**, and **yfinance**.
+Welcome to my personal collection of projects in **Quantitative Finance**, **Data Analysis**, and **Machine Learning** applied to financial markets.  
+This repository gathers academic, research, and personal projects developed using Python and R, focused on trading strategies, risk modeling, and portfolio optimization.
 
 ---
 
-## 📘 **Overview**
+## 🎯 Purpose
 
-The notebook covers the most essential operations for analyzing financial data, including:
-
-- Fetching and cleaning market data (e.g., stock prices, indexes)
-- Calculating **percentage** and **logarithmic returns**
-- Computing key **risk measures** (variance, volatility, Sharpe ratio)
-- Visualizing performance through **Wealth Index** and **Drawdown analysis**
-
-This project serves as a foundation for more advanced topics such as  
-volatility modeling (e.g., GARCH), portfolio optimization, and machine-learning-based forecasting.
+The goal of this portfolio is to demonstrate practical applications of statistical and machine learning models in finance, ranging from econometric analysis to deep learning architectures for forecasting and trading.
 
 ---
 
-## ⚙️ **Main Features**
+## 🧩 Project List
 
-| Section | Description |
-|:--------|:-------------|
-| **Data Import** | Load data from CSV files or directly from Yahoo Finance via *yfinance* |
-| **Pandas Basics** | Understand Series, DataFrames, and indexing with `.loc` and `.iloc` |
-| **Returns** | Compute both simple and logarithmic returns |
-| **Risk Measures** | Calculate standard deviation, annualized volatility, and Sharpe Ratio |
-| **Performance Analysis** | Build and visualize the Wealth Index and Drawdowns |
-| **Annotation Plot** | Display the Maximum Drawdown directly on the chart |
+| # | Project | Description |
+|:-:|:---------|:-------------|
+| 1 | [Finance Starter Kit](./1.%20Finance%20Starter%20Kit/README.md) | A Python notebook introducing essential financial computations — returns, risk measures, Sharpe ratio, and drawdowns. |
+| 2 | *(Coming soon)* Volatility Forecasting | GARCH-family models and neural architectures (LSTM, GRU, Conv1D, N-BEATS) for volatility prediction. |
+| 3 | *(Coming soon)* Portfolio Optimization | Mean–variance optimization, efficient frontier, and performance evaluation with real market data. |
 
 ---
 
-## 🧩 **Technologies Used**
+## 🛠️ Technologies
 
-- **Python** ≥ 3.10  
-- **pandas** ≥ 2.0  
-- **NumPy** ≥ 1.24  
-- **Matplotlib** ≥ 3.7  
-- **yfinance** ≥ 0.2  
-- **lxml**, **pandas-datareader**
+- **Languages:** Python, R  
+- **Libraries:** `pandas`, `numpy`, `matplotlib`, `yfinance`, `statsmodels`, `arch`, `scikit-learn`, `tensorflow`, `torch`  
+- **Tools:** Jupyter Notebook, VS Code, Git, GitHub
 
 ---
 
-## 🧠 **Learning Objectives**
+## 📈 Example Topics
 
-- Master basic data handling and transformation in *pandas*
-- Apply quantitative finance concepts in code
-- Understand the connection between risk, return, and portfolio growth
-- Create clear and reproducible financial visualizations
+- Time series analysis and volatility modeling  
+- Machine learning and deep learning for financial forecasting  
+- Risk measurement and portfolio optimization  
+- Data acquisition and preprocessing for market data
 
 ---
+
+## 👨‍💻 Author
+
+**Luca Celio**  
+MSc in *Economics and Finance* — Quantitative Finance specialization  
+📍 Ca' Foscari University of Venice  
+📧 [Add your email or LinkedIn if you want recruiters to reach you]
+
+---
+
+## 📄 License
+
+This repository is licensed under the [MIT License](./LICENSE).
