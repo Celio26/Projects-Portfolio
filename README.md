@@ -15,7 +15,7 @@ The goal of this portfolio is to demonstrate practical applications of statistic
 
 | # | Project | Description |
 |:-:|:---------|:-------------|
-| 1 | [Finance Starter Kit](./1.%20Finance%20Starter%20Kit/README.md) | A Python notebook introducing essential financial computations — returns, risk measures, Sharpe ratio, and drawdowns. |
+| 1 | [Finance Starter Kit](./1.%20Finance%20Starter%20Kit) | A Python notebook introducing essential financial computations — returns, risk measures, Sharpe ratio, and drawdowns. |
 | 2 | *(Coming soon)* Volatility Forecasting | GARCH-family models and neural architectures (LSTM, GRU, Conv1D, N-BEATS) for volatility prediction. |
 | 3 | *(Coming soon)* Portfolio Optimization | Mean–variance optimization, efficient frontier, and performance evaluation with real market data. |
 
