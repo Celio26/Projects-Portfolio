@@ -1,5 +1,8 @@
 # 📘 Quantitative Finance Projects Portfolio
 
+The full Master’s Thesis is available in the **Thesis** folder of this repository.  
+It includes a complete research project on volatility forecasting using econometric and machine learning models.
+
 Welcome to my personal portfolio of projects in **Quantitative Finance**, **Data Analysis**, and **Financial Modeling**.
 
 This repository collects hands-on projects developed in Python and R, covering key areas such as:
