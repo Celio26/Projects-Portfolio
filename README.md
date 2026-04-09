@@ -38,26 +38,6 @@ Each project is structured as a self-contained analysis including both **theoret
 
 ---
 
-## 📊 Highlight: Volatility Modeling Project
-
-The GARCH project focuses on modeling and forecasting the volatility of Google stock returns (2019–2024), with out-of-sample evaluation on early 2025.
-
-Key components include:
-- Data preprocessing and statistical testing (ADF, normality, non-linearity)
-- Estimation of multiple GARCH-family models:
-  - GARCH
-  - GJR-GARCH (asymmetric)
-  - eGARCH (exponential)
-- Use of different distributions (normal and skewed Student-t)
-- Rolling window estimation for time-varying volatility
-- Simulation of future price paths
-- Comparison between simulated and real prices
-- Model validation using **Root Mean Squared Error (RMSE)**
-
-The results highlight how different model specifications capture volatility dynamics differently, and how model choice impacts forecasting performance.
-
----
-
 ## 🛠️ Technologies
 
 - **Languages:** Python, R  
