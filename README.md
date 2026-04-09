@@ -9,6 +9,9 @@ This repository collects hands-on projects developed in Python and R, covering k
 - derivative pricing,
 - and volatility forecasting.
 
+**Note:** The GARCH project is provided as an HTML report.  
+GitHub may not render it directly in the browser — please download the file and open it locally for the full interactive version (plots and outputs).
+
 ---
 
 ## 🎯 Purpose
