@@ -31,7 +31,9 @@ Each project is structured as a self-contained analysis including both **theoret
 | 3 | [Economic Machine](./Projects/3.%20Economic%20Machine.ipynb) | Macro-financial framework inspired by Ray Dalio’s “Economic Machine”, modeling economic cycles and relationships. |
 | 4 | [Portfolio Optimization](./Projects/4.%20Portfolio%20Optimization.ipynb) | Mean–variance optimization, efficient frontier construction, and portfolio performance analysis using market data. |
 | 5 | [Option Pricing](./Projects/5.%20Option%20Pricing.ipynb) | Pricing European options using Black–Scholes and Monte Carlo simulation, with analytical and numerical comparison. |
-| 6 | [Volatility Forecasting with GARCH Models](./Projects/6.%20Volatility%20and%20Garch%20Models.pdf) | Empirical analysis of volatility dynamics on Google stock (GOOG), including GARCH, GJR-GARCH, and eGARCH models, rolling window forecasting, price simulation, and model validation via RMSE. |
+| 6 | [Volatility Forecasting with GARCH Models](./Projects/6.%20Volatility%20and%20Garch%20Models.pdf) | Empirical analysis of volatility dynamics on Google stock (GOOG), including GARCH, GJR-GARCH, and eGARCH models, rolling window forecasting, price simulation, and model validation via RMSE.
+**Note:** The GARCH project is provided as an HTML report.  
+GitHub may not render it directly in the browser — please download the file and open it locally for the full interactive version (plots and outputs).|
 
 ---
 
