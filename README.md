@@ -28,19 +28,6 @@ Each project is structured as a self-contained analysis including both **theoret
 
 ---
 
-## 🧩 Project List
-
-| # | Project | Description |
-|:-:|:---------|:-------------|
-| 1 | [Finance Starter Kit](./Projects/1.%20Finance%20Starter%20Kit.ipynb) | Introduction to core financial computations: returns, volatility, Sharpe ratio, and drawdowns. |
-| 2 | [FX Trading Strategy Backtest](./Projects/2.%20FX%20Trading%20Strategy%20Backtest.ipynb) | Backtesting a rule-based FX trading strategy with performance evaluation and risk metrics. |
-| 3 | [Economic Machine](./Projects/3.%20Economic%20Machine.ipynb) | Macro-financial framework inspired by Ray Dalio’s “Economic Machine”, modeling economic cycles and relationships. |
-| 4 | [Portfolio Optimization](./Projects/4.%20Portfolio%20Optimization.ipynb) | Mean–variance optimization, efficient frontier construction, and portfolio performance analysis using market data. |
-| 5 | [Option Pricing](./Projects/5.%20Option%20Pricing.ipynb) | Pricing European options using Black–Scholes and Monte Carlo simulation, with analytical and numerical comparison. |
-| 6 | [Volatility with GARCH Models](./Projects/6.%20Volatility%20with%20Garch%20Models.html) | Empirical analysis of volatility dynamics on Google stock (GOOG), including GARCH, GJR-GARCH, and eGARCH models, rolling window forecasting, price simulation, and model validation via RMSE.|
-
----
-
 ## 🛠️ Technologies
 
 - **Languages:** Python, R  
